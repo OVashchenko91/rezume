@@ -50,7 +50,6 @@ font-weight: normal;
 font-size: 14px;
 line-height: 24px;
 color: #595959;
-width: 400px;
 
 }
 
@@ -155,7 +154,7 @@ color: #595959;
 
 /* Education styles */
 .education{
-margin-top: 50px;
+margin-top: 10px;
 }
 .education-item{
 font-style: normal;
@@ -178,9 +177,10 @@ font-style: normal;
 font-weight: 700;
 font-size: 14px;
 line-height: 17px;
-color: #000000
-margin-bottom: 10px;
+color: #000000;
+margin-bottom: 0px;
 }
+
 .period{
 font-style: normal;
 font-weight: 400;
